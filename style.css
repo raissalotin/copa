@@ -1,0 +1,32 @@
+@charset "UTF-8";
+.titulo-tabela{
+    text-align: center;
+    font-family:'Mimi MF', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    
+}
+h1{
+    text-align: center;
+}
+#grupo1{
+    background-color: #009c3b;
+  
+}
+#grupo2{
+    background-color: #ffdf00;
+    
+}
+#grupo3{
+    background-color: #009c3b;
+   
+}
+#grupo4{
+    background-color: #ffdf00;
+   
+}
+
+.fundo1
+{
+    background-color: #009c3b;
+}
+
